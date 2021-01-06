@@ -1,3 +1,3 @@
 During 4 weeks of summer 2020 I have been working on building an Operator Simulation game. 
-The game is a simplified representation of how an operator in the metal industry works to secure correct kA on electrodes in a metal-melting-furnace to produce a desired amount om MW. 
+The game is a simplified representation of how an operator in the metal industry works to secure correct current (kA) on electrodes in a metal-melting-furnace to produce a desired amount of power (MW). 
 The project is created in Visual Studio Code, with C#, JavaScript, CSS and HTML-code. It is also connected to a database hosted locally on MySQL. 

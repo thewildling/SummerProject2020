@@ -6,7 +6,7 @@ The project is created in Visual Studio Code, with C#, JavaScript, CSS and HTML-
 
 ## Setup ##
 
-In my web hosting provider I created a website-address and added a MySQL-database. All the codes from the OperatorSimulationGame-folder was added to InfinityFree and the website is deployed from there. 
+In my web hosting provider I created a website-address and added a MySQL-database (for the highscore-list). All the codes from the OperatorSimulationGame-folder was added to InfinityFree and the website is deployed from there. 
 
 ## Reuirements ##
 

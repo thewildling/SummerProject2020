@@ -10,5 +10,5 @@ In my web hosting provider I created a website-address and added a MySQL-databas
 
 ## Reuirements ##
 
-- Visual Studio or another editor where one can write HTML, CSS, Javascript
+- Visual Studio or another editor where one can write HTML, CSS, Javascript and C#
 - A web hosting provider (I used Inifinity Free)
